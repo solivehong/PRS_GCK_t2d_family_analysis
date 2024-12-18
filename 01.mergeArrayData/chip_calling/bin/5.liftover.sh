@@ -1,0 +1,1 @@
+CrossMap.py vcf /disk/reference/liftover_ref/hg19ToHg38.over.chain $1 /disk/reference/update_gatk_v0/Homo_sapiens_assembly38.fasta $2
